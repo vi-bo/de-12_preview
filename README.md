@@ -8,7 +8,7 @@
 
 ## Лаба 1. + 1s. [Настройка инфраструктуры, установка kafka-брокера](https://github.com/vi-bo/big_data/tree/main/de-12/lab1s)
 
-## Задачи
+### Задачи
 
 * поднять две машины в VK Cloud с заданной конфигурацией;
 
@@ -20,7 +20,7 @@
 
 * настроить Firewall на уровне OS.
 
-## Инструменты
+### Инструменты
 
 ![vk_cloud.png](./img/vk_cloud.png)
 ![apache_kafka.png](./img/apache_kafka.png)
@@ -32,7 +32,7 @@
 
 В лабе 2 и 3 делаем lambda-архитектуру с двумя слоями (batch-слоем и speed-слоем). В лабе 2 соответственно делаем batch-слой.
 
-## Задачи
+### Задачи
 
 * установка и конфигурирование Сlickhouse;
 
@@ -48,7 +48,7 @@
 
 * настройка пайплайна, чтобы чекер мог запускать DAG через REST API Airflow.
 
-## Инструменты
+### Инструменты
 
 ![apache_kafka.png](./img/apache_kafka.png)
 ![clickhouse.png](./img/clickhouse.png)
