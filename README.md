@@ -6,7 +6,7 @@
 
 ### Практика
 
-## Лаба 1. + 1s. [Настройка инфраструктуры, установка kafka-брокера](https://github.com/vi-bo/big_data/tree/main/de-12/lab1s)
+## Лаба 1. + 1s. [Настройка инфраструктуры + kafka-брокер](https://github.com/vi-bo/big_data/tree/main/de-12/lab1s)
 
 ### Задачи
 
