@@ -122,7 +122,7 @@
 
 ### Задачи
 
-* взять данные из Clickhouse, сделать BI-аналитику, с помощью Apache Superset;
+* взять данные из Clickhouse, сделать BI-аналитику с помощью Apache Superset;
 
 * визуализация метрик Flask-приложения в Prometheus.
 
@@ -139,3 +139,9 @@
 ### Задачи
 
 ### Инструменты
+
+![postgres.png](./img/postgres.png)
+![clickhouse.png](./img/clickhouse.png)
+![airflow.png](./img/airflow.png)
+![docker.png](./img/docker.png)
+![redis.png](./img/redis.png)
